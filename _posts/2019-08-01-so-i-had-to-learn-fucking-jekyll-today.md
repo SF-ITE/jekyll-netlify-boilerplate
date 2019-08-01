@@ -21,6 +21,6 @@ There are too many goddamned [static site](https://en.wikipedia.org/wiki/Static_
 * Middleman
 * Gridsome
 
-There are actually a [lot more](https://www.staticgen.com/) of them. Look, they are all just slightly different ways of doing the exact same thing, but because they all have their own snytactical quirks and conventions, there is an attention cost in learning each in turn. Worse, some are based on Ruby, some JavaScript, Python, etc; so there are dependencies to consider, as well as local development environments to be installed. 
 
-So, welcome to the party. If you are new to the blog, it is quite tech-focused, but it is really driven by things that either delight me or piss me off.
+
+There are actually a [lot more](https://www.staticgen.com/) of them. Look, they are all just slightly different ways of doing the exact same thing, but because they all have their own snytactical quirks and conventions, there is an attention cost in learning each in turn. Worse, some are based on Ruby, some JavaScript, Python, etc; so there are dependencies to consider, as well as local development environments to be installed.
