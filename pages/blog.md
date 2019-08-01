@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: The Blog
+title: My Shitty Blog
 permalink: /blog
 section: blog
-intro_paragraph: 'Recent posts:'
+intro_paragraph: In which I ramble on about things that delight or annoy me.
 ---
 
