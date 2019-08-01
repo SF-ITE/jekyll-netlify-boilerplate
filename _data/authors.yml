@@ -1,10 +1,10 @@
 # specify site authors in this file
 # you can add .yml files for any other global data in this folder
 
-The_I_T_Guy:
+it_guy:
     name: The I.T. Guy
     email: hireerrickson@gmail.com
-    web: https://theitguy.gq
+    web: https://www.ericerrickson.ml
 john_doe:
     name: John Doe
     email: johndoe@email.com
