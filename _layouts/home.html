@@ -12,14 +12,12 @@ layout: default
 
     <h3>Recent posts from the blog</h3>
 
-    <b>
-      <ul>
-        {% for post in site.posts limit:3 %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </b>
+    <ul>
+      {% for post in site.posts limit:5 %}
+        <li>
+         <b> <a href="{{ post.url }}">{{ post.title }}</a> </b>
+        </li>
+      {% endfor %}
+    </ul>
 
   </section>
