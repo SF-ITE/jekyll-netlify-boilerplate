@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Welcome to the hamster wheel. - A Dev’s life in San Francisco
+title: Welcome to the hamster wheel - a Dev’s life in San Francisco
 author: john_doe
 date: '2019-08-01 11:51:34'
 intro_paragraph: >-
+  ![Actual Footage](/assets/img/uploads/programmerslife.gif "Actual Footage ")
+
+
   ## We write code for a living. We are lucky enough to do that in the Mecca of
   All Things Tech. So, why are so many of us leaving?
-
-
-  ![Actual Footage](/assets/img/uploads/programmerslife.gif "Actual Footage ")
 ---
 High five, tech bro! You’ve made it. You live and work in the City. You grossed $180K last year, and this year looks even better. So, why are you looking for a way out?
 
