@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about
 section: about
-intro_paragraph: '  I have been coding since the summer of 1986, when I put my dirt bike into a tree and broke my leg.'
+intro_paragraph: >-
+  ##   I have been coding since the summer of 1986, when I put my dirt bike into
+  a tree and broke my leg.
 ---
 
 
