@@ -8,10 +8,6 @@ categories: 'Web '
 ---
    That's why this blog exists. I have a perfectly serviceable WordPress CMS that I have been using for yonks, but I need to learn yet another damn framework today, so I spun this thing up.
 
-```
-$ bundle exec jekyll _3.3.0_ new  myShittyNewBlog
-```
-
 There are too many goddamned [static site](https://en.wikipedia.org/wiki/Static_web_page) generators. Just like JavaScript frameworks, the things are breeding like mad and will soon take over the planet. Think I'm kidding? Here is a partial list of the ones I know of, off the top of my head:
 
 1. Jekyll
