@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 'So, I had to learn fucking Jekyll today.'
+title: 'So, I had to learn fucking Jekyll today'
 author: john_doe
 date: '2019-08-01 09:21:02'
-intro_paragraph: '   That''s why this blog exists. I have a perfectly serviceable WordPress CMS that I have been using for yonks, but I need to learn yet another damn framework today, so I spun this thing up.'
+intro_paragraph: 'Jekyll, and Hugo, and Gatsby, oh my...'
 categories: 'Web '
 ---
+   That's why this blog exists. I have a perfectly serviceable WordPress CMS that I have been using for yonks, but I need to learn yet another damn framework today, so I spun this thing up.
+
 ```
 $ bundle exec jekyll _3.3.0_ new  myShittyNewBlog
 ```
