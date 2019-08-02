@@ -54,8 +54,6 @@ em {
 body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	text-align: justify;
-	text-justify: inter-word;
 }
 
 img {
@@ -72,8 +70,7 @@ pre {
 }
 
 code {
-	background-color: black;
-	color: green;
+	background-color: $grey-bg-color;
   padding: 0.2rem 0.4rem;
 }
 
