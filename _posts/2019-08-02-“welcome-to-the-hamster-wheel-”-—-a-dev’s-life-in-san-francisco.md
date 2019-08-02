@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the hamster wheel. - A Dev’s life in San Francisco
-author: it_guy
+author: john_doe
 date: '2019-08-01 11:51:34'
 intro_paragraph: >-
   High five, tech bro! You’ve made it. You live and work in the City. You
