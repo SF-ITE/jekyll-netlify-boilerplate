@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Welcome to the hamster wheel.” — A Dev’s life in San Francisco
+title: Welcome to the hamster wheel. - A Dev’s life in San Francisco
 author: it_guy
 date: '2019-08-01 11:51:34'
 intro_paragraph: >-
