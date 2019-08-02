@@ -9,6 +9,7 @@ intro_paragraph: |2-
   ```
   $ bundle exec jekyll _3.3.0_ new  myShittyNewBlog
   ```
+categories: 'Web '
 ---
 There are too many goddamned [static site](https://en.wikipedia.org/wiki/Static_web_page) generators. Just like JavaScript frameworks, the things are breeding like mad and will soon take over the planet. Think I'm kidding? Here is a partial list of the ones I know of, off the top of my head:
 
