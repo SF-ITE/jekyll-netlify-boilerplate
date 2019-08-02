@@ -8,7 +8,7 @@ intro_paragraph: >-
   grossed $180K last year, and this year looks even better. So, why are you
   looking for a way out?
 ---
-_**“Eat >> Sleep >> Code >> Repeat“**_
+
 
 
 
